@@ -1,0 +1,53 @@
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\bin\Debug\MyCourses.mdf
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\bin\Debug\MyCourses_log.ldf
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\bin\Debug\Course Info Project.exe.config
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\bin\Debug\Course Info Project.exe
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\bin\Debug\Course Info Project.pdb
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\bin\Debug\Course Info Project.xml
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\obj\Debug\Course Info Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\obj\Debug\Course_Info_Project.frmMain.resources
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\obj\Debug\Course_Info_Project.Resources.resources
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\obj\Debug\Course Info Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\obj\Debug\Course Info Project.exe
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\obj\Debug\Course Info Project.xml
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\obj\Debug\Course Info Project.pdb
+E:\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\bin\Debug\MyCourses.mdf
+E:\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\bin\Debug\MyCourses_log.ldf
+E:\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\bin\Debug\Course Info Project.exe.config
+E:\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\bin\Debug\Course Info Project.exe
+E:\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\bin\Debug\Course Info Project.pdb
+E:\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\bin\Debug\Course Info Project.xml
+E:\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course Info Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course_Info_Project.frmMain.resources
+E:\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course_Info_Project.Resources.resources
+E:\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course Info Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course Info Project.exe
+E:\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course Info Project.xml
+E:\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course Info Project.pdb
+E:\VB2017\Chap11\Data\Course Info Solution-Total Hours\Course Info Project\bin\Debug\MyCourses.mdf
+E:\VB2017\Chap11\Data\Course Info Solution-Total Hours\Course Info Project\bin\Debug\MyCourses_log.ldf
+E:\VB2017\Chap11\Data\Course Info Solution-Total Hours\Course Info Project\bin\Debug\Course Info Project.exe.config
+E:\VB2017\Chap11\Data\Course Info Solution-Total Hours\Course Info Project\bin\Debug\Course Info Project.exe
+E:\VB2017\Chap11\Data\Course Info Solution-Total Hours\Course Info Project\bin\Debug\Course Info Project.pdb
+E:\VB2017\Chap11\Data\Course Info Solution-Total Hours\Course Info Project\bin\Debug\Course Info Project.xml
+E:\VB2017\Chap11\Data\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course Info Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap11\Data\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course_Info_Project.frmMain.resources
+E:\VB2017\Chap11\Data\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course_Info_Project.Resources.resources
+E:\VB2017\Chap11\Data\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course Info Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap11\Data\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course Info Project.exe
+E:\VB2017\Chap11\Data\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course Info Project.xml
+E:\VB2017\Chap11\Data\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course Info Project.pdb
+D:\Academics\CSC208 Advanced Visual Basic\Chapter 11 Data Files\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\bin\Debug\MyCourses.mdf
+D:\Academics\CSC208 Advanced Visual Basic\Chapter 11 Data Files\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\bin\Debug\MyCourses_log.ldf
+D:\Academics\CSC208 Advanced Visual Basic\Chapter 11 Data Files\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\bin\Debug\Course Info Project.exe.config
+D:\Academics\CSC208 Advanced Visual Basic\Chapter 11 Data Files\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\bin\Debug\Course Info Project.exe
+D:\Academics\CSC208 Advanced Visual Basic\Chapter 11 Data Files\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\bin\Debug\Course Info Project.pdb
+D:\Academics\CSC208 Advanced Visual Basic\Chapter 11 Data Files\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\bin\Debug\Course Info Project.xml
+D:\Academics\CSC208 Advanced Visual Basic\Chapter 11 Data Files\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course Info Project.vbprojAssemblyReference.cache
+D:\Academics\CSC208 Advanced Visual Basic\Chapter 11 Data Files\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course_Info_Project.frmMain.resources
+D:\Academics\CSC208 Advanced Visual Basic\Chapter 11 Data Files\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course_Info_Project.Resources.resources
+D:\Academics\CSC208 Advanced Visual Basic\Chapter 11 Data Files\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course Info Project.vbproj.GenerateResource.cache
+D:\Academics\CSC208 Advanced Visual Basic\Chapter 11 Data Files\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course Info Project.vbproj.CoreCompileInputs.cache
+D:\Academics\CSC208 Advanced Visual Basic\Chapter 11 Data Files\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course Info Project.exe
+D:\Academics\CSC208 Advanced Visual Basic\Chapter 11 Data Files\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course Info Project.xml
+D:\Academics\CSC208 Advanced Visual Basic\Chapter 11 Data Files\VB2017\Chap11\Course Info Solution-Total Hours\Course Info Project\obj\Debug\Course Info Project.pdb
